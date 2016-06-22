@@ -1,0 +1,24 @@
+<ion-header-bar align-title="left" class="bar-dark">
+	<div class="h1 title">微信</div>
+	<div class="buttons">
+		<button class="button no-animation button-icon icon ion-android-search">
+        </button>
+		<button class="button no-animation button-icon icon ion-android-add">
+        </button>
+	</div>
+</ion-header-bar>
+
+<ion-view>
+	<ion-content>
+		<ion-list>
+			<ion-item class="item-avatar" ng-repeat="msg in msgs" ng-click="goPage(msg.NAME)" on-hold="popupMessage(msg)">
+				<img src="{{msg.IMG}}" />
+				<span class="rj-sm-red-icon" ng-show="msg.MISS_MSG_COUNT>0"><p >{{msg.MISS_MSG_COUNT}}</p></span>
+				<h2>{{msg.NAME}}</h2>
+				<p class="rj-list-p">{{msg.LAST_MESSAGE}}</p>
+				<span class="rj-push-right">{{msg.LAST_TIME}}</span>
+			</ion-item>
+
+		</ion-list>
+	</ion-content>
+</ion-view>

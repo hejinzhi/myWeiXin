@@ -1,0 +1,40 @@
+[
+	{
+		"time": "09:27",
+		"timeFlag": "Y",
+		"myMessage": "有在看比賽嗎？",
+		"myMessageFlag": "Y",
+		"yourMessage": "",
+		"yourMessageFlag": "N"
+	}, {
+		"time": "09:27",
+		"timeFlag": "N",
+		"myMessage": "",
+		"myMessageFlag": "N",
+		"yourMessage": "有啊，真好看！",
+		"yourMessageFlag": "Y"
+	}, {
+		"time": "09:27",
+		"timeFlag": "N",
+		"myMessage": "你支持哪隊？",
+		"myMessageFlag": "Y",
+		"yourMessage": "",
+		"yourMessageFlag": "N"
+	}
+	, {
+		"time": "09:27",
+		"timeFlag": "N",
+		"myMessage": "我支持勇士？",
+		"myMessageFlag": "Y",
+		"yourMessage": "",
+		"yourMessageFlag": "N"
+	}
+	, {
+		"time": "09:27",
+		"timeFlag": "N",
+		"myMessage": "？",
+		"myMessageFlag": "N",
+		"yourMessage": "勇士隊啊，還用說的",
+		"yourMessageFlag": "Y"
+	}
+]

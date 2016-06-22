@@ -1,0 +1,38 @@
+[
+	{
+		"ID": 1,
+		"IMG": "img/adam.png",
+		"LAST_MESSAGE": "下班回家吃飯",
+		"LAST_TIME": "昨天",
+		"MISS_MSG_COUNT": 1,
+		"NAME": "adam"
+	}, {
+		"ID": 2,
+		"IMG": "img/ben.png",
+		"LAST_MESSAGE": "明天去唱K",
+		"LAST_TIME": "13:20",
+		"MISS_MSG_COUNT": 2,
+		"NAME": "ben"
+	}, {
+		"ID": 3,
+		"IMG": "img/max.png",
+		"LAST_MESSAGE": "我在看電影",
+		"LAST_TIME": "15:20",
+		"MISS_MSG_COUNT": 0,
+		"NAME": "max"
+	}, {
+		"ID": 4,
+		"IMG": "img/mike.png",
+		"LAST_MESSAGE": "等到猴年馬月",
+		"LAST_TIME": "16:13",
+		"MISS_MSG_COUNT": 4,
+		"NAME": "mike"
+	}, {
+		"ID": 5,
+		"IMG": "img/perry.png",
+		"LAST_MESSAGE": "現在幾點?",
+		"LAST_TIME": "19:01",
+		"MISS_MSG_COUNT": 5,
+		"NAME": "perry"
+	}
+]

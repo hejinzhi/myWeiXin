@@ -1,0 +1,20 @@
+{
+	"index.html": {
+		"resources": [
+			"templates/tab-message.html",
+			"js/app.js",
+			"templates/tab-friend.html",
+			"lib/ionic/fonts/ionicons.ttf",
+			"lib/ionic/js/ionic.bundle.js",
+			"js/routes.js",
+			"templates/tab-find.html",
+			"js/services.js",
+			"templates/tab-setting.html",
+			"js/controllers.js",
+			"css/ionic.app.css",
+			"js/directives.js",
+			"templates/message-detail.html",
+			"data/msg.json"
+		]
+	}
+}
